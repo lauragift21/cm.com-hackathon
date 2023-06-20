@@ -1,4 +1,4 @@
-Frontend
+Frontend Instructions
 ===================================================
 
 Tasks:
@@ -21,6 +21,7 @@ Tasks:
 * The API endpoint will return a link to the shared file in the response body, display said link after successful upload
 
 Stretch goals:
+
 * Add a button to copy the link to the clipboard
 * Handle failure cases in the frontend to give the user feedback
 * Add a selector to the form with 1h, 24h or 7d options and add the respective value in seconds as "expire" header to the POST request.

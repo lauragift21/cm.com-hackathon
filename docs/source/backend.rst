@@ -1,4 +1,4 @@
-Backend
+Backend Instructions
 ===================================================
 
 
@@ -30,7 +30,8 @@ Tasks:
   * Follow https://developers.cloudflare.com/r2/api/s3/presigned-urls/ to generate a pre-signed URL for the GET method that is valid for 3600 seconds
   * Return that URL in response body
   
-## Stretch goals:
+Stretch goals:
+
 * Parse the "expire" header from the request and use it to set the pre-signed URL expiration; if it is not present or invalid, default to 36000
 * Set up Logpush to R2 for the Worker and add meaningful logs
 * Use KV to generate "nicer" links. The current links are very long. Store the current link in KV with a random number as key and return a link with the number instead. Then implement a GET method that can parse the link (i.e. extract the path), makes a KV lookup to the original link and then fetches that link and returns the result
