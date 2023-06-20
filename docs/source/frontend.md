@@ -1,10 +1,10 @@
 Frontend Instructions
 ===================================================
 
-Tasks:
+## Tasks
 
 * Create & deploy a NextJS project using npm cloudflare create
-* Go to dash and explore, then attach a custom domain. You can use any URL in the form of <YOUR-SUBDOMAIN>.cf-workshop.eu
+* Go to dash and explore, then attach a custom domain. You can use any URL in the form of `<YOUR-SUBDOMAIN>.cf-workshop.eu`
 * Get local dev running by running npm run dev
 * Edit Home page to have a file-upload form
 * Deploy your changes to Pages using previews (see https://developers.cloudflare.com/pages/platform/direct-upload/#publish-your-assets); note that you'll have to install next-on-pages first using npm and use the following command to deploy npx wrangler pages deploy .vercel/output/static 
@@ -20,7 +20,7 @@ Tasks:
 * The submit button should be disabled during upload and display "Uploading..."
 * The API endpoint will return a link to the shared file in the response body, display said link after successful upload
 
-Stretch goals:
+## Stretch goals:
 
 * Add a button to copy the link to the clipboard
 * Handle failure cases in the frontend to give the user feedback
