@@ -5,5 +5,5 @@ Welcome to Cloudflare Full-stack Workshop
 .. toctree::
    :maxdepth: 2
 
-   frontend.md
+   frontend.rst
    backend.rst

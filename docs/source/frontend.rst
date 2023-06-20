@@ -1,7 +1,7 @@
 Frontend Instructions
 ===================================================
 
-## Tasks
+Tasks:
 
 * Create & deploy a NextJS project using npm cloudflare create
 * Go to dash and explore, then attach a custom domain. You can use any URL in the form of `<YOUR-SUBDOMAIN>.cf-workshop.eu`
@@ -20,7 +20,7 @@ Frontend Instructions
 * The submit button should be disabled during upload and display "Uploading..."
 * The API endpoint will return a link to the shared file in the response body, display said link after successful upload
 
-## Stretch goals:
+Stretch goals:
 
 * Add a button to copy the link to the clipboard
 * Handle failure cases in the frontend to give the user feedback
