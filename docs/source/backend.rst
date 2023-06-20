@@ -3,7 +3,6 @@ Backend
 
 
 Tasks:
-===================================================
 
 * Create & deploy a Workers project using npm cloudflare create
 * Go to dash and explore
