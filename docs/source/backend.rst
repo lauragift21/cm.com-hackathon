@@ -1,15 +1,9 @@
 Backend
 ===================================================
 
-.. toctree::
-   :maxdepth: 2
-
-   frontend.rst
-   backend.rst
 
 Tasks:
 ===================================================
-
 
 * Create & deploy a Workers project using npm cloudflare create
 * Go to dash and explore

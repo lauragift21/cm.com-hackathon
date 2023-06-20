@@ -1,12 +1,6 @@
 Frontend
 ===================================================
 
-.. toctree::
-   :maxdepth: 2
-
-   frontend.rst
-   backend.rst
-
 ## Tasks:
 - Create & deploy a NextJS project using npm cloudflare create
 - Go to dash and explore, then attach a custom domain. You can use any URL in the form of <YOUR-SUBDOMAIN>.cf-workshop.eu
