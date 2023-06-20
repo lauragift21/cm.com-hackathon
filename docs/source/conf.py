@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'CM.com Hackathon 2023 '
+copyright = '2023, Cloudflare'
+author = 'Cloudflare'
 
 release = '0.1'
 version = '0.1.0'
