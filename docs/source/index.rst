@@ -1,8 +1,10 @@
-Welcome to Cloudflare Hackathon!
-===================================
+Welcome to Cloudflare Hackathon
+===================================================
 
 
+.. toctree::
+   :caption: Hackathon Instructions:
+   :maxdepth: 2
 
-🚀 [Frontend Instructions]()
-
-🚀 [Backend Instructions]()
+   frontend.rst
+   backend.rst
