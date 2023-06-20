@@ -1,6 +1,11 @@
-Backend Instructions
+Backend
 ===================================================
 
+.. toctree::
+   :maxdepth: 2
+
+   frontend.rst
+   backend.rst
 
 ## Tasks:
 

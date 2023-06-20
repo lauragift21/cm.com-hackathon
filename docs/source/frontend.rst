@@ -1,6 +1,11 @@
-Frontend Instructions
+Frontend
 ===================================================
 
+.. toctree::
+   :maxdepth: 2
+
+   frontend.rst
+   backend.rst
 
 ## Tasks:
 - Create & deploy a NextJS project using npm cloudflare create

@@ -1,9 +1,8 @@
-Welcome to Cloudflare Hackathon
+Welcome to Cloudflare Full-stack Workshop
 ===================================================
 
 
 .. toctree::
-   :caption: Hackathon Instructions:
    :maxdepth: 2
 
    frontend.rst
